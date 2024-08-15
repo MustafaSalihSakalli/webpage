@@ -71,8 +71,7 @@ export const Services = () => {
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    I closely follow improvements, changes and trends on web
-                    development.
+                    I closely follow changes and trends on web development.
                   </p>
                 </li>
 
