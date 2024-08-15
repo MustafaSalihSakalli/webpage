@@ -47,7 +47,7 @@ const Contact = () => {
                 href="https://wa.me/905332580587"
                 className="contact__button"
               >
-                Write me{" "}
+                Text me{" "}
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
             </div>
@@ -60,7 +60,7 @@ const Contact = () => {
                 href="t.me/mustafasalihsakalli"
                 className="contact__button"
               >
-                Write me{" "}
+                Text me{" "}
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
             </div>
@@ -68,7 +68,7 @@ const Contact = () => {
         </div>
 
         <div className="contact__content">
-          <h3 className="contact__title">Write me your project</h3>
+          <h3 className="contact__title">Tell me about your project</h3>
           <form
             ref={form}
             onSubmit={sendEmail}
